@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-08-19T11:14:36.444Z",
+  "assets": [
+    {
+      "name": "Ganesh",
+      "modelFile": "Ganesh.glb",
+      "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/Ganesh.glb",
+      "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/Ganesh.png",
+      "size": 39960,
+      "lastModified": "2025-08-19T11:14:36.686Z"
+    },
+    {
+      "name": "Horse",
+      "modelFile": "Horse.glb",
+      "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/Horse.glb",
+      "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/Horse.png",
+      "size": 53728,
+      "lastModified": "2025-08-19T11:14:37.262Z"
+    }
+  ]
+}
