@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-08-19T11:14:36.444Z",
+  "lastUpdated": "2025-08-19T11:16:30.427Z",
   "assets": [
     {
       "name": "Ganesh",
@@ -8,7 +8,7 @@
       "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/Ganesh.glb",
       "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/Ganesh.png",
       "size": 39960,
-      "lastModified": "2025-08-19T11:14:36.686Z"
+      "lastModified": "2025-08-19T11:16:30.666Z"
     },
     {
       "name": "Horse",
@@ -16,7 +16,15 @@
       "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/Horse.glb",
       "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/Horse.png",
       "size": 53728,
-      "lastModified": "2025-08-19T11:14:37.262Z"
+      "lastModified": "2025-08-19T11:16:30.910Z"
+    },
+    {
+      "name": "Kong",
+      "modelFile": "Kong.glb",
+      "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/Kong.glb",
+      "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/Kong.png",
+      "size": 105428,
+      "lastModified": "2025-08-19T11:16:31.498Z"
     }
   ]
 }
