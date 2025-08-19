@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-08-19T12:42:20.990Z",
+  "lastUpdated": "2025-08-19T12:49:00.401Z",
   "assets": [
     {
       "name": "Ganesh",
@@ -8,7 +8,7 @@
       "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/Ganesh.glb",
       "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/Ganesh.png",
       "size": 39960,
-      "lastModified": "2025-08-19T12:42:21.231Z"
+      "lastModified": "2025-08-19T12:49:00.634Z"
     },
     {
       "name": "Horse",
@@ -16,7 +16,7 @@
       "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/Horse.glb",
       "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/Horse.png",
       "size": 53728,
-      "lastModified": "2025-08-19T12:42:21.470Z"
+      "lastModified": "2025-08-19T12:49:00.869Z"
     },
     {
       "name": "Kong",
@@ -24,15 +24,7 @@
       "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/Kong.glb",
       "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/Kong.png",
       "size": 105428,
-      "lastModified": "2025-08-19T12:42:21.725Z"
-    },
-    {
-      "name": "Standing Greeting",
-      "modelFile": "Standing Greeting.fbx",
-      "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/Standing%20Greeting.fbx",
-      "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/Standing Greeting.png",
-      "size": 710688,
-      "lastModified": "2025-08-19T12:42:23.465Z"
+      "lastModified": "2025-08-19T12:49:01.112Z"
     },
     {
       "name": "kamaz-5340",
@@ -40,7 +32,7 @@
       "modelUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/models/kamaz-5340.glb",
       "iconUrl": "https://raw.githubusercontent.com/GowthamPre/ARModels/main/icons/kamaz-5340.png",
       "size": 11100564,
-      "lastModified": "2025-08-19T12:42:23.983Z"
+      "lastModified": "2025-08-19T12:49:01.603Z"
     }
   ]
 }
